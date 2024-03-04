@@ -1,0 +1,1 @@
+print("work hard till you reach it")
